@@ -1,5 +1,6 @@
 
 import './App.css';
+import Services from './components/Services/Services';
 import Skills from './components/Skills/Skills';
 import About from './components/about/About';
 import Header from './components/header/Header';
@@ -14,6 +15,7 @@ function App() {
         <Home />
         <About />
         <Skills />
+        <Services />
       </main>
 
     </>

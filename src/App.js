@@ -7,7 +7,7 @@ import Home from "./components/home/Home";
 import Qualifcation from "./components/Qualifcation/Qualifcation";
 import Testimonials from "./components/testimonials/Testimonials";
 import { Contact } from "./components/contact/Contact";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
